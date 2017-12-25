@@ -1,10 +1,11 @@
 **Things I have learned at Bloc.io**
 
 
-*HTML
-*CSS
-*Markdown
-*Git (currently learning)
-*Atom
-*Slack
-*the BLOC interface
+1. HTML
+2. CSS
+3. Markdown
+4. Git (currently learning)
+5. Atom
+6. Slack
+7. the BLOC interface
+8. Skype
